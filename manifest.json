@@ -1,0 +1,7 @@
+{
+  "name": "figma-plugin-boilerplate",
+  "id": "812034778966849700",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "ui": "dist/ui.html"
+}
